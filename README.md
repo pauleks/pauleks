@@ -7,3 +7,5 @@ I'm Paulius, a.k.a TheOnlyGhostwolf/Ghostwolf. Welcome to my profile! 😃
 - 📫 How to reach me: You don't
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: People somehow can't stand my sleep schedule lol
+
+![:eyes:](https://komarev.com/ghpvc/?username=TheOnlyGhostwolf&color=green)
