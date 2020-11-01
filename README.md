@@ -3,8 +3,8 @@
 I'm Paulius, a.k.a TheOnlyGhostwolf/Ghostwolf. Welcome to my profile! 😃
 
 - 🔭 I’m currently working on small projects that seem fun to me
-- 🌱 I’m currently learning web development, more exactly - NodeJS, NextJS, etc.
-- 📫 How to reach me: You don't
+- 🌱 Looking forward to learning VueJS. 
+- 📫 How to reach me: via Discord - ghostwolf#5420
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: People somehow can't stand my sleep schedule lol
 
