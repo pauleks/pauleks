@@ -4,7 +4,7 @@ I'm Paulius, a.k.a TheOnlyGhostwolf/Ghostwolf. Welcome to my profile! 😃
 
 - 🔭 I’m currently working on small projects that seem fun to me
 - 🌱 Looking forward to learning VueJS. 
-- 📫 How to reach me: via Discord - ghostwolf#5420
+- 📫 How to reach me: find my contacts somewhere here -> https://ghostwolf.me/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: People somehow can't stand my sleep schedule lol
 
