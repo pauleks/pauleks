@@ -1,4 +1,6 @@
-# Welcome 👋
+![Awesome introduction](https://i.kawaii.sh/3tgQU16.png)
+
+---
 
 I'm Paulius, a.k.a TheOnlyGhostwolf/Ghostwolf. Welcome to my profile! 😃
 
