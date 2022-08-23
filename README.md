@@ -2,7 +2,7 @@
 
 I'm Paulius, a B.Sc software engineering student from Lithuania, working on mostly web projects.
 
-[website](https://paulekas.eu/) • [contact me](mailto:hi@paulekas.eu) • [linkedin](https://www.linkedin.com/in/paulius-ge%C4%8Das-925193207)
+[website](https://paulekas.eu/) • [contact me](mailto:hi@paulekas.eu) • [linkedin](https://lt.linkedin.com/in/paulius-g-925193207)
 
 ### Education
 
