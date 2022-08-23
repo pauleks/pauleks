@@ -1,3 +1,10 @@
-https://user-images.githubusercontent.com/31188082/126474141-bbcc072e-ee69-4e38-8abf-7969aa9138b2.mp4
+**👋 Hello!!**
+
+I'm Paulius, a B.Sc software engineering student from Lithuania, working on mostly web projects.
+
+### Education
+
+- Software Engineering @ [Kaunas University of Technology](https://en.ktu.edu/), [Faculty of Informatics](https://fi.ktu.edu/) (2022 - current)
+- [Kaunas University of Technology Gymnasium](https://www.ktug.lt/wp-content/uploads/2022/02/KTUG-profile-2022-02.pdf) (2020-2022 - graduated)
 
 ![:eyes:](https://komarev.com/ghpvc/?username=TheOnlyGhostwolf&color=green)
