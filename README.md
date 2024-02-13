@@ -4,7 +4,7 @@ I'm Paulius, a B.Sc software engineering student from Lithuania, working on most
 
 [website](https://paulekas.eu/) • [contact me](mailto:hi@paulekas.eu) • [linkedin](https://linkedin.com/in/pauliusgecas)
 
-Some of my old projects can be found [here](https://github.com/ghostwolfarchive)!
+Some of my old projects can be found [here](https://github.com/pauleksarchive)!
 
 ### Education
 
