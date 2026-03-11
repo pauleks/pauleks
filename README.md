@@ -1,4 +1,4 @@
 > [!WARNING]
 > I have switched from GitHub to a self-hosted solution.
 >
-> https://git.paulekas.eu/
+> https://git.paulekas.eu/paulius
